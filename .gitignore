@@ -1,6 +1,7 @@
 stock_data.csv
 venv/
 myvenv/
+myenv/
 __pycache__/
 *.pyc
 .env
