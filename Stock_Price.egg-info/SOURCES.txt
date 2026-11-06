@@ -1,0 +1,7 @@
+README.md
+setup.py
+Stock_Price.egg-info/PKG-INFO
+Stock_Price.egg-info/SOURCES.txt
+Stock_Price.egg-info/dependency_links.txt
+Stock_Price.egg-info/requires.txt
+Stock_Price.egg-info/top_level.txt
