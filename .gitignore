@@ -1,0 +1,7 @@
+stock_data.csv
+venv/
+myvenv/
+__pycache__/
+*.pyc
+.env
+.ipynb_checkpoints/
